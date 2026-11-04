@@ -1,7 +1,7 @@
 # Door 1 of stack-pack-android: every version of the build is here, once.
 [versions]
 agp = "8.13.2"             # the newest Android Gradle Plugin that runs on Gradle 8.14 (the platform workflows pin it)
-kotlin = "2.3.21"
+kotlin = "2.4.21"
 ksp = "2.3.13"
 hilt = "2.58"            # 2.59 and later need AGP 9, which needs Gradle 9
 composeBom = "2026.01.01"
